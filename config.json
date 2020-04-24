@@ -1,7 +1,7 @@
 {
   "regions":{
     "tampa":{
-      "datalocation":  "https://raw.githubusercontent.com/tampabayregionalsurveys/ActivityViz_data/master/data/tampa/"
+      "datalocation":  "https://raw.githubusercontent.com/RSGInc/ActivityViz_data/master/data/tampa/"
     }
   }
 }
